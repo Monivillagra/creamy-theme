@@ -1,0 +1,33 @@
+.color-rojo {
+	color: #da2c38;
+}
+.color-beige {
+	color: #f4f0bb;
+}
+.creamy {
+	background-image: url(../img/creamy.jpg);
+	background-position: right;
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.fondo-negro {
+	background-color: rgba(8, 8, 8, 0.48);
+    padding: 10% 0%;
+}
+.fondo-beige {
+	background-color: #f4f0bb;
+}
+.fondo-rojo {
+	background-color: #da2c38;
+	padding: 1% 0%;
+}
+.ice1 {
+    width: 100%;
+    padding: 5%; 
+}
+.f-m {
+	font-family: "Merriweather";
+}
+.f-o {
+	font-family: "Open+sans";
+}
