@@ -2,7 +2,7 @@
 	color: #da2c38;
 }
 .color-beige {
-	color: #f4f0bb;
+    color: #f4f0bb !important;
 }
 .creamy {
 	background-image: url(../img/creamy.jpg);
@@ -18,8 +18,8 @@
 	background-color: #f4f0bb;
 }
 .fondo-rojo {
-	background-color: #da2c38;
-	padding: 1% 0%;
+    background-color: #da2c38;
+    /*margin-bottom: -2%;*/
 }
 .ice1 {
     width: 100%;
@@ -30,4 +30,14 @@
 }
 .f-o {
 	font-family: "Open+sans";
+}
+
+.icono {
+    text-align: center !important;
+    width: 100%;
+    font-size: 50px;
+    margin-top: 5%;
+}
+.pfoot {
+    padding: 1% 0%;
 }
